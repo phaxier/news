@@ -1,11 +1,18 @@
-h2.introduction{
+.introduction
+{
   font: 15px;
   color: tomato;
+  font-family: monospace;
+
 
 }
-p.introduction{
-  font-size: 15px;
-  color: red;
-  font-family: serif;
 
+.blu{
+  font-size: 15px;
+    font-family: serif;
+    color: blue;
+
+}.at-vero{
+  font-size: 18px;
+  background-color:yellow;
 }
