@@ -3,10 +3,12 @@
   font: 15px;
   color: tomato;
   font-family: monospace;
-
-
 }
-
+.sidebar{
+  width: 30%;
+  float:right;
+  background-color: yellow;
+}
 .blu{
   font-size: 15px;
     font-family: serif;
@@ -14,5 +16,15 @@
 
 }.at-vero{
   font-size: 18px;
-  background-color:yellow;
+  background-color:blue;
+  margin-right: 400px;
+}
+img{
+  float: left;
+  background-blend-mode: hue;
+}
+.column{
+  width: 350px;
+  float: left;
+
 }
